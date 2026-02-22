@@ -1,0 +1,15 @@
+{
+  "name": "perezazhigal",
+  "version": "1.0.0",
+  "description": "Перезажигал — чат сервер",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
